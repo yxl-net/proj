@@ -9,4 +9,5 @@
 ## Nuget库
 ## NPM包
 ## 小程序
++ [汉语拼音小工具](../../../phonetic/)
 + [WCF服务转Web API](wcf-api/README.md)
